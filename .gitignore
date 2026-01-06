@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# Docs build directory
+docs/build/
