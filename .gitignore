@@ -42,3 +42,5 @@
 
 # Docs build directory
 docs/build/
+
+*__pycache__/
